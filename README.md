@@ -25,4 +25,4 @@ python confidence.py
 
 
 ## Contact
-If you have any issues or questions about this repo, feel free to contact N2207879D@e.ntu.edu.sg.
+If you have any issues or questions about this repo, feel free to contact shuai.zhao@ntu.edu.sg.
